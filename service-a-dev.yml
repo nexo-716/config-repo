@@ -1,4 +1,4 @@
 server:
-  port: 8091
+  port: 8092
 database:
   url: jdbc:mysql://localhost:3306/service_a_dev
